@@ -21,6 +21,7 @@ dependencies = [
     "numpy>=2.3.3",
     "opencv-python>=4.11.0.86",
     "pandas>=2.3.2",
+    "pip>=25.3",
     "pyarrow>=21.0.0",
     "pydotplus>=2.0.2",
     "pyspark>=4.0.1",
